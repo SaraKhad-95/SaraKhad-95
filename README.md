@@ -1,6 +1,6 @@
 ### Hi , I'm Sara based in Italy👋
 
-I'm a Junior Front End Developer who is passionate about writing code, solving problems and building software.
+I'm a Junior Front End Developer who is passionate about writing code and solving problems.
 
 - 🔭 I’m currently student at Develhope.
 - 📚 I’m currently learning Angular.
